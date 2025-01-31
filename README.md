@@ -15,10 +15,9 @@ Get the package
 ```shell
 
 package.json
-
 "dependencies": {
 ...
-"editorjs-text-color-plugin": "git+https://github.com/dariox64/editorjs-text-color-plugin.git",
+"editorjs-text-color-plugin": "git+https://github.com/gwebtechology/editorjs-text-color-plugin",
 ...
 }
 
